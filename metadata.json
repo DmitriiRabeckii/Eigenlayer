@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<YOUR_WEBSITE>",
-  "description": "<DESCRIPTION>",
-  "logo": "https://www.example.com/logo.png",
-  "twitter": "<YOUR_TWITTER>"
+  "name": "crazydimka",
+  "website": "https://crazydimka.by",
+  "description": "I'm a web developer and a node operator.",
+  "logo": "https://crazydimka.by/logo.png",
+  "twitter": "https://twitter.com/dima_rabecki"
 }
